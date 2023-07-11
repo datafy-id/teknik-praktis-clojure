@@ -1,0 +1,11 @@
+[package]
+name = "teknik-praktis-clojure"
+version = "0.0.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[lib]
+path = "dummy.rs"
