@@ -10,10 +10,15 @@ senior untuk menguasai bahasa yang sederhana namun *powerful* ini yaitu
 dari apapun yang sudah kita kuasai dari bahasa pemrograman lain sebelumnya, bisa
 kita *tinker elegantly with Clojure*. <br/><br/>*-- Cilegon, Early July 2023.*
 
+Silahkan baca buku nya disini:
+https://datafy-id.github.io/teknik-praktis-clojure.
+
 Kontribusi dalam berbagai bentuk sangat kami harapkan, semoga Allah SWT membalas
 setiap kontribusi dengan balasan yang berlipat ganda. Amin.
 
-Stay tune, keep hacking!
+Clone the repo, install and run `mdbook` on it then hack on.
+
+Stay tuned!
 
 
 # License
