@@ -1,0 +1,10 @@
+[book]
+authors = ["Muhammad Ridho"]
+language = "id"
+multilingual = false
+src = "src"
+title = "Teknik Praktis Clojure"
+
+[output.html]
+git-repository-url = "https://github.com/datafy-id/teknik-praktis-clojure"
+site-url = "https://datafy-id.github.io/teknik-praktis-clojure/"
