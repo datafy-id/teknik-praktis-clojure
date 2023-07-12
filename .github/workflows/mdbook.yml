@@ -47,7 +47,7 @@ jobs:
       - name: Build with mdBook
         run: mdbook build
       - name: Cargo build
-	run: cargo build --release
+        run: cargo build --release
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
